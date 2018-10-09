@@ -1,6 +1,7 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 scrapBook.md
+.metadata
 ### STS ###
 .apt_generated
 .classpath
@@ -9,7 +10,7 @@ scrapBook.md
 .settings
 .springBeans
 .sts4-cache
-
+.plugins
 ### IntelliJ IDEA ###
 .idea
 *.iws
